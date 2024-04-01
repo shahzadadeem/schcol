@@ -17,6 +17,9 @@
 
 
 **Screenshots**
+|  |  |
+|--|--|
+|  |  |
 
 <img src="https://github.com/shahzadadeem/schcol/blob/main/Screenshot_1.png?raw=true" width=200 height=400>
 <img src="https://github.com/shahzadadeem/schcol/blob/main/Screenshot_2.png?raw=true" width=200 height=400>
