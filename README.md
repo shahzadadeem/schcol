@@ -14,3 +14,10 @@
 **Flutter Package:**
  - Dio (https://pub.dev/packages/dio)
  - Status Alert (https://pub.dev/packages/status_alert)
+
+
+**Screenshots**
+
+![enter image description here](https://github.com/shahzadadeem/schcol/blob/main/Screenshot_1.png?raw=true)
+![enter image description here](https://github.com/shahzadadeem/schcol/blob/main/Screenshot_2.png?raw=true)
+![enter image description here](https://github.com/shahzadadeem/schcol/blob/main/Screenshot_3.png?raw=true)
